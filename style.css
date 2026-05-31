@@ -388,7 +388,7 @@ form .btn2{
 nav .fas{
     display:none;
 }
-/* .scrol{
+.scrol{
     background: white;
     padding:10px 0 ;
     width: 50px;
@@ -406,7 +406,7 @@ nav .fas{
 .scrol:hover{
     background: #ff004f;
 
-} */
+} 
 /*-----------------------------------smoll screens-------------------------------------------------------------------------
  */
 @media only screen and (max-width:600px){
